@@ -1,0 +1,12 @@
+C:\Users\tmtri\source\repos\DemoServiceOrchestration\DemoServiceOrchestration\bin\Debug\DemoServiceOrchestration.exe.config
+C:\Users\tmtri\source\repos\DemoServiceOrchestration\DemoServiceOrchestration\bin\Debug\DemoServiceOrchestration.exe
+C:\Users\tmtri\source\repos\DemoServiceOrchestration\DemoServiceOrchestration\bin\Debug\DemoServiceOrchestration.pdb
+C:\Users\tmtri\source\repos\DemoServiceOrchestration\DemoServiceOrchestration\obj\Debug\DemoServiceOrchestration.csprojAssemblyReference.cache
+C:\Users\tmtri\source\repos\DemoServiceOrchestration\DemoServiceOrchestration\obj\Debug\DemoServiceOrchestration.exe
+C:\Users\tmtri\source\repos\DemoServiceOrchestration\DemoServiceOrchestration\obj\Debug\DemoServiceOrchestration.pdb
+E:\Teaching\2020-2021\HK2\DemoServiceOrchestration\DemoServiceOrchestration\bin\Debug\DemoServiceOrchestration.exe.config
+E:\Teaching\2020-2021\HK2\DemoServiceOrchestration\DemoServiceOrchestration\bin\Debug\DemoServiceOrchestration.exe
+E:\Teaching\2020-2021\HK2\DemoServiceOrchestration\DemoServiceOrchestration\bin\Debug\DemoServiceOrchestration.pdb
+E:\Teaching\2020-2021\HK2\DemoServiceOrchestration\DemoServiceOrchestration\obj\Debug\DemoServiceOrchestration.csprojAssemblyReference.cache
+E:\Teaching\2020-2021\HK2\DemoServiceOrchestration\DemoServiceOrchestration\obj\Debug\DemoServiceOrchestration.exe
+E:\Teaching\2020-2021\HK2\DemoServiceOrchestration\DemoServiceOrchestration\obj\Debug\DemoServiceOrchestration.pdb

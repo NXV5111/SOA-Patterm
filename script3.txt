@@ -1,0 +1,16 @@
+5
+InputAnInteger
+0
+1 v1 a
+InputAnInteger
+0
+1 v1 b
+InputAnInteger
+0
+1 v1 c
+Max3Integers
+3 a v1 b v2 c v3
+1 v1 kq
+OutputAnInteger
+1 kq v1
+0

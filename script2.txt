@@ -1,0 +1,19 @@
+6
+InputAnInteger
+0
+1 v1 a
+InputAnInteger
+0 
+1 v1 b
+MaxTwoIntegers
+2 a v1 b v2
+1 v1 maxab
+InputAnInteger
+0
+1 v1 c
+MaxTwoIntegers
+2 maxab v1 c v2
+1 v1 res
+OutputAnInteger
+1 res v1
+0

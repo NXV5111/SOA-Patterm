@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace DemoServiceOrchestration
+{
+    public class OutputAnInteger : MyFunction
+    {
+        public override VariableDictionary Execute(VariableDictionary input)
+        {
+            int x = int.Parse(input["v1"]);
+            Console.WriteLine(x.ToString());
+            VariableDictionary output = new VariableDictionary();
+            return output;
+        }
+
+    }
+}

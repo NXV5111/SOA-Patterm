@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DemoServiceOrchestration.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoServiceOrchestration.MyFunction">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQQAAgAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoServiceOrchestration.VariableDictionary">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAEAEAAA=</HashCode>
+      <FileName>VariableDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoServiceOrchestration.MyProgram">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAA=</HashCode>
+      <FileName>MyProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoServiceOrchestration.MyProgramStep">
+    <Position X="11.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAEAAAAAAAQAA=</HashCode>
+      <FileName>MyProgramStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoServiceOrchestration.VariableMapping">
+    <Position X="8.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VariableMapping.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoServiceOrchestration.InputAnInteger">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InputAnInteger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoServiceOrchestration.OutputAnInteger">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OutputAnInteger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoServiceOrchestration.MultiplyTwoIntegers">
+    <Position X="7.75" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MultiplyTwoIntegers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoServiceOrchestration.MaxTwoIntegers">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MaxTwoIntegers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoServiceOrchestration.MyCompositeFunction">
+    <Position X="1" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAKBAEQAEAAQgAIAAAAAAAAAAAEAAAAAAgAAAAAA=</HashCode>
+      <FileName>MyCompositeFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
